@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: acerca de mi.
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
@@ -9,7 +9,10 @@ redirect_from:
   - /download/
 ---
 
-# About
+# Acerca de mi.
+
+Soy una salvadoreña que puede ayudarte a sacar el mejor provecho en tu estadia en El Salvador.
+
 
 <!--author-->
 
@@ -27,7 +30,7 @@ Hydejack's cover page on a variety of screen sizes.
 {:.figcaption}
 
 
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress.
 
 It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
 
