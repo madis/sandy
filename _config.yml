@@ -29,7 +29,8 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:              Te ayudaré tener la mejor experiencia en El Salvador - el país de surf, bitcoin y libertad.
+tagline:              Te ayudaré a tener la mejor experiencia en El Salvador - el país de el surf, Bitcoin y  libertad.
+
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,11 +50,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Surf
     url:               /example/
-  - title:             Documentation
+  - title:             Bitcoin
     url:               /docs/
-  - title:             About
+  - title:             Tours
     url:               /about/
 
 # Add links to the footer.
