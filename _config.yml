@@ -51,13 +51,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Surf
-    url:               /example/
+    url:               /surf/
   - title:             Bitcoin
-    url:               /docs/
+    url:               /bitcoin/
   - title:             Tours
+    url:               /tours/
+  - title:             About
     url:               /about/
-  - title:             Surf
-    url:              /example/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
