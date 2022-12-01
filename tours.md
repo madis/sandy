@@ -1,12 +1,10 @@
 ---
-layout: acerca de mi.
+layout: page
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-hide_description: true
-redirect_from:
-  - /download/
+  El Salvador, albeit small, has many spectacular sights - volcanoes, caves, waterfalls. Find out here where to find these
+hide_description: false
+
 ---
 
-# Sobre mí
+![Volcano](/assets/img/tours/volcano-sunset.jpg)
