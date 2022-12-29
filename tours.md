@@ -8,3 +8,5 @@ hide_description: false
 ---
 
 ![Volcano](/assets/img/tours/volcano-sunset.jpg)
+
+{% include contact-form.html %}
