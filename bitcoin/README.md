@@ -8,6 +8,9 @@ sitemap: false
 permalink: /bitcoin/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El Salvador is the first country to adopt Bitcoin as legal tender, becoming the first country in the world to approve the use of the cryptocurrency.
+The bitcoin law was approved on June 9, 2021 by the legislative assembly of El Salvador, the law meant the adoption of bitcoin throughout the national territory.
+But the use of bitcoin started some time ago in our country. In the year 2019 in El Zonte beach, located in Chiltiupán , La Libertad ,known more as Bitcoin Beach, they introduced the first circular economy in Bitcoin. I invite you to explore this small town, where you can pay for your hotel room, a delicious meal and probably a surf lesson using your bitcoin, and it will not be necessary to bring dollars.
+
 
 {% include contact-form.html %}
