@@ -2,7 +2,7 @@
 layout: page
 title: Bitcoin
 description: >
-  Bitcoin es la moneda oficial en El Salvador. Aprende más sobre el dinero del internet y de la libertad
+  Bitcoin is the officially currency of El Salvador. Learn more about internet and freedom money.
 hide_description: false
 sitemap: false
 permalink: /bitcoin/
