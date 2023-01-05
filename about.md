@@ -16,4 +16,4 @@ If you want to know more do not hesitate to follow our social networks and conta
 
 
 
-![Volcano](/assets/img/about/sandy-small.png)
+![Volcano](/assets/img/about/about-me.png)
