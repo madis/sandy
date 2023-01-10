@@ -6,7 +6,7 @@ hide_description: true
 permalink: /surf/
 ---
 
-![Volcano](/assets/mp4/surf/surf-sunset.mp4)
+![surf](/assets/mp4/surf/surf-sunset.mp4)
 
 
 
