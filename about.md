@@ -11,7 +11,6 @@ hide_description: true
 
 
 I am a Salvadoran, and I can help you have a great experience exploring El Salvador together.
-
 If you want to know more do not hesitate to follow our social networks and contact us.
 
 
