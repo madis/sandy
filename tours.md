@@ -7,6 +7,6 @@ hide_description: false
 
 ---
 
-![Volcano](/assets/img/tours/volcano-sunset.jpg)
+![Volcano](/assets/img/tours/lake-tour.jpg)
 
 {% include contact-form.html %}
