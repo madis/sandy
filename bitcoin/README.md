@@ -8,7 +8,7 @@ sitemap: false
 permalink: /bitcoin/
 ---
 
-![Volcano](/assets/img/about/bitcoin-coin.jpg)
+![Volcano](/assets/img/bitcoin/bitcoin-coin.jpg)
 
 El Salvador is the first country to adopt Bitcoin as legal tender, becoming the first country in the world to approve the use of the cryptocurrency.
 The bitcoin law was approved on June 9, 2021 by the legislative assembly of El Salvador, the law meant the adoption of bitcoin throughout the national territory.
