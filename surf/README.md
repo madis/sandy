@@ -6,7 +6,7 @@ hide_description: true
 permalink: /surf/
 ---
 
-![surf](/assets/mp4/surf/surf-sunset.mp4)
+<video src="/assets/mp4/surf/surf-sunset.mp4" autoplay />
 
 
 
