@@ -6,10 +6,10 @@ hide_description: true
 permalink: /surf/
 ---
 
+El Salvador has become since a couple of decades ago a destination for surfing, we have the best waves in Central America with the perfect climate for surfing in a simple swimsuit, we have hosted and participated in various world surfing competitions.
+
+If you have never surfed, it is no excuse not to try, in |El Salvador beaches there are surf schools who invite you and encourage you to practice this sport, where for a minimal price you can have at your disposal a coach, a board, a rash, sunscreen and some offer you a video section and even a whole surf camp.
+
 <video src="/assets/mp4/surf/surf-sunset.mp4" autoplay />
-
-
-
-Since a couple of decades ago El Salvador has become a destination for surfing, we have the best waves in Central America, the perfect weather for surfing in a simple swimsuit, and we have hosted and participated in different international surfing competitions. If you have never surfed, there is no excuse not to try, in these beaches there are surf schools that invite you and encourage you to practice this sport, where for a reasonable price you can have a coach, board, rash, sunscreen and some schools even they offer you a video session and an entire surf camp.
 
 {% include contact-form.html %}
