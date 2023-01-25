@@ -58,6 +58,10 @@ menu:
     url:               /tours/
   - title:             About
     url:               /about/
+  #  - title:          Services
+  #    url:            /services/
+  #   - title:          More
+  #    url:            /more/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

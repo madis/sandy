@@ -1,14 +1,24 @@
 ---
-title: Surf
+title: Why surf in El Salvador?
 description: >
   Aquí puedes encontrar información práctica sobre dónde, cómo y con quién surfear
 hide_description: true
 permalink: /surf/
 ---
 
-El Salvador has become since a couple of decades ago a destination for surfing, we have the best waves in Central America with the perfect climate for surfing in a simple swimsuit, we have hosted and participated in various world surfing competitions.
+El Salvador is a great destination for foreign surfers because of its world-class surf spots and the international competitions it has hosted. Here are some reasons why foreign surfers should consider visiting El Salvador:
 
-If you have never surfed, it is no excuse not to try, in El Salvador beaches there are surf schools who invite you and encourage you to practice this sport, where for a minimal price you can have at your disposal a coach, a board, a rash, sunscreen and some offer you a video section and even a whole surf camp.
+World-class surf spots: El Salvador is home to several world-class surf spots, such as Punta Roca, El Sunzal, and La Bocana, which are popular with surfers of all skill levels. These spots offer great waves, beautiful scenery and year-round weather.
+
+International Competitions: El Salvador has hosted several international surfing competitions, such as the World Surf League (WSL) and the International Surfing Association (ISA) World Surfing Games, which attract some of the best surfers from around the world. This is a great opportunity for foreign surfers to see and compete with the best surfers in the world.
+
+Surfing Culture: El Salvador has a strong surf culture and a vibrant community of local surfers. Visiting surfers will have the opportunity to meet other surf enthusiasts and learn more about the local surf culture.
+
+Affordable: El Salvador is one of the most affordable destinations in the region, which can be a great option for budget-conscious surfers. The cost of lodging, food, transportation and surf lessons are very affordable compared to other surf destinations.
+
+Adventure: El Salvador offers more than just surfing, it is a country with a rich cultural heritage and natural beauty, visitors can explore ancient ruins, colonial towns and enjoy the natural beauty of the country.
+
+All of these reasons make El Salvador a great surf destination, if you want to surf or you want to reserve a surf lesson in El Salvador do not hesitate to contact us.
 
 <video src="/assets/mp4/surf/surf-sunset.mp4" autoplay />
 
