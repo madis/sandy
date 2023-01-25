@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Bitcoin
+title: What is bitcoin?
 description:
 
 hide_description: false
 sitemap: false
 permalink: /bitcoin/
 ---
-
-El Salvador is the first country to adopt Bitcoin as legal tender, becoming the first country in the world to approve the use of the cryptocurrency.
-The bitcoin law was approved on June 9, 2021 by the legislative assembly of El Salvador, the law meant the adoption of bitcoin throughout the national territory.
-But the use of bitcoin started some time ago in our country. In the year 2019 in El Zonte beach, located in Chiltiupán , La Libertad ,known more as Bitcoin Beach, they introduced the first circular economy in Bitcoin. I invite you to explore this small town, where you can pay for your hotel room, a delicious meal and probably a surf lesson using your bitcoin, and it will not be necessary to bring dollars.
+What is bitcoin?
+Bitcoin is a decentralized digital currency that can be sent electronically from one user to another without the need for a middleman, such as a bank or government, so this means it is decentralized . Transactions are recorded on a public ledger called a blockchain, which allows for transparency and security. Bitcoin was created in 2009 by an individual or group of individuals using the pseudonym Satoshi Nakamoto. It is the first and most widely known cryptocurrency.
+This is the money of freedom.
 
 ![Volcano](/assets/img/bitcoin/bitcoin-coin.jpg)
 
