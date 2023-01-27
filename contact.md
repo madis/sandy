@@ -1,9 +1,9 @@
 ---
-layout: page
-image: /assets/img/blog/hydejack-9.jpg
+title: Why surf in El Salvador?
 description: >
-  El Salvador, albeit small, has many spectacular sights - volcanoes, caves, waterfalls. Find out here where to find these
+  Aquí puedes encontrar información práctica sobre dónde, cómo y con quién surfear
 hide_description: true
+permalink: /surf/
 
 ---
 {% include contact-form.html %}
