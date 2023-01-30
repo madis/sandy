@@ -15,7 +15,7 @@ All these reasons make El Salvador a great surfing destination, if you want to s
   <strong>Surfing Culture</strong>
 
   <strong>Affordable</strong>
-  
+
   <strong>Adventure</strong>
 
 <video src="/assets/mp4/surf/surf-sunset.mp4" autoplay />
