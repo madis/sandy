@@ -7,6 +7,6 @@ permalink: /contact/
 ---
 ![Volcano](/assets/img/about/volcano-pic.jpg)
 
-<strong>CONTACT</strong>
+<strong>Contact us</strong>
 ---
 {% include contact-form.html %}
