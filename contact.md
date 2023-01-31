@@ -5,7 +5,7 @@ description: >
 hide_description: true
 permalink: /contact/
 ---
-![Volcano](/assets/img/about/volcano-pic.jpg)
+![Volcano](/assets/img/contact/volcano-pic.jpg)
 
 <strong>Contact us</strong>
 ---
