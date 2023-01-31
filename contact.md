@@ -9,5 +9,4 @@ permalink: /contact/
 
 <strong>CONTACT</strong>
 ---
-
 {% include contact-form.html %}
