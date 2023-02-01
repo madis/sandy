@@ -7,7 +7,7 @@ hide_description: true
 
 ---
 
-# about me.
+About me.
 
 I am a Salvadoran, and I can help you have a great experience exploring El Salvador together.
 If you want to know more do not hesitate to follow our social networks and contact us.
@@ -28,6 +28,7 @@ Some of the popular tours I offer include
 
 Don't miss your chance to get the most out of your visit to El Salvador. Book your tour with me today and let me show you why this place is so special.
 For more information, please get in contact with us. I look forward to hearing from you and guiding you on the adventure of a lifetime!
-
+---
+{% include instagram.html username="jhvanderschee" %}
 
 {% include contact-form.html %}
