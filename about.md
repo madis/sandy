@@ -19,7 +19,5 @@ In addition to guiding, I also offer reliable and comfortable transportation ser
 
 Don't miss your chance to get the most out of your visit to El Salvador. Book your tour with me today and let me show you why this place is so special.
 For more information, please get in contact with us. I look forward to hearing from you and guiding you on the adventure of a lifetime!
----
-{% include instagram.html username="sandywaves.sv" %}
 
 {% include contact-form.html %}
