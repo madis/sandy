@@ -13,10 +13,13 @@ permalink: /contact/
 <span class="icon-facebook" title="facebook"></span>
 <a class=" " href="https://www.facebook.com/sandywavessv" property="sameAs">Sandy.sv</a>
 
-<strong>Email:  services@sandy.sv</strong>
+<span class="icon-mail" title="mail"></span>
+<a class=" " href="https://mail.google.com/" property="sameAs">services@sandy.sv</a>
 
-<strong>WhatsApp: +50375416494</strong>
+<span class="icon-whatsapp" title="whatsapp"></span>
+<a class=" " href="https://web.whatsapp.com/" property="sameAs">+503 7541 6494</a><br>![Volcano](/assets/img/social/whatsapp_QR.jpg)
 
-<strong>Tel: +503 75416494</strong>
+<span class="icon-telephone" title="Tel"></span>
+<strong>+503 75416494</strong>
 
 {% include contact-form.html %}
