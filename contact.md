@@ -7,7 +7,7 @@ permalink: /contact/
 ---
 ![Volcano](/assets/img/contact/volcano-pic.jpg)
 
-
+<span class="icon-instagram" title="instagram"></span>
 <a class=" " href="https://www.instagram.com/sandywaves.sv/" property="sameAs">Sandy Waves</a>
 
 <strong>Email:  services@sandy.sv</strong>
