@@ -8,7 +8,9 @@ permalink: /contact/
 ![Volcano](/assets/img/contact/volcano-pic.jpg)
 
 <strong>Email:  services@sandy.sv</strong>
+
 <strong>WhatsApp: +50375416494</strong>
+
 <strong>Tel: +503 75416494</strong>
 
 {% include contact-form.html %}
