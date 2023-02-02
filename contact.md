@@ -7,7 +7,8 @@ permalink: /contact/
 ---
 ![Volcano](/assets/img/contact/volcano-pic.jpg)
 
-<p>This is a marker: <mark>Important</mark></p>
+
+<a class=" " href="https://www.instagram.com/sandywaves.sv/" property="sameAs">Sandy WAVES</a>
 
 <strong>Email:  services@sandy.sv</strong>
 
