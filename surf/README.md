@@ -1,22 +1,28 @@
 ---
-title: Let's surf in el salvador!!!
+title: Schedule your surf lessons with us!!!
 description: >
   Aquí puedes encontrar información práctica sobre dónde, cómo y con quién surfear
 hide_description: true
 permalink: /surf/
 ---
+We offer you:
 
-All these reasons make El Salvador a great surfing destination, if you want to surf or want to book a surf lesson in El Salvador do not hesitate to contact us.
+Qualified instructors with over 15 years of experience.
+ISA (International Surfing Association) Technique certified.
+Certified in the MAP Technique (Biomechanical Surfing Technique).
+Qualified to teach levels 1, 2 and 3.
 
-   <strong>World-class surf spots</strong>
+Every lesson includes
+Longboard
+Board wax
+Rash Guard
+Sunscreen
+60 minute lesson.
 
-  <strong>International Competitions</strong>
+Our main goal is your safety, so you can get started in this wonderful sport.
+Give your heart a break, surf and enjoy the moment.
 
-  <strong>Surfing Culture</strong>
-
-  <strong>Affordable</strong>
-
-  <strong>Adventure</strong>
+Contact us here to schedule your lessons.
 
 <video src="/assets/mp4/surf/surf-sunset.mp4" autoplay />
 
