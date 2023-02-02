@@ -5,11 +5,11 @@ description: >
 hide_description: true
 permalink: /surf/
 ---
-We offer you:
+<strong>We offer you:</strong>
 
 Qualified instructors with over 15 years of experience.<br>ISA (International Surfing Association) Technique certified.<br>Certified in the MAP Technique (Biomechanical Surfing Technique).<br>Qualified to teach levels 1, 2 and 3.
 
-Every lesson includes:
+<strong>Every lesson includes:</strong>
 
 Longboard<br>Board wax<br>Rash Guard<br>Sunscreen<br>60 minute lesson.
 
