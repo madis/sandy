@@ -7,6 +7,8 @@ permalink: /contact/
 ---
 ![Volcano](/assets/img/contact/volcano-pic.jpg)
 
+<p>This is a marker: <mark>Important</mark></p>
+
 <strong>Email:  services@sandy.sv</strong>
 
 <strong>WhatsApp: +50375416494</strong>
