@@ -7,9 +7,7 @@ permalink: /surf/
 ---
 We offer you:
 
-Qualified instructors with over 15 years of experience.
-
-ISA (International Surfing Association) Technique certified.
+Qualified instructors with over 15 years of experience.<br>ISA (International Surfing Association) Technique certified.
 
 Certified in the MAP Technique (Biomechanical Surfing Technique).
 

@@ -10,6 +10,9 @@ permalink: /contact/
 <span class="icon-instagram" title="instagram"></span>
 <a class=" " href="https://www.instagram.com/sandywaves.sv/" property="sameAs">Sandy Waves</a>
 
+<span class="icon-facebook" title="facebook"></span>
+<a class=" " href="https://www.facebook.com/sandywavessv" property="sameAs">Sandy.sv</a>
+
 <strong>Email:  services@sandy.sv</strong>
 
 <strong>WhatsApp: +50375416494</strong>
