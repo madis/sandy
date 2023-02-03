@@ -17,6 +17,6 @@ permalink: /contact/
 <a class=" " href="https://mail.google.com/" property="sameAs">services@sandy.sv</a>
 
 <span class="icon-whatsapp" title="whatsapp"></span>
-<a class=" " href="https://whatsapp.com/" property="sameAs">+503 7541 6494</a><br>![Volcano](/assets/img/social/whatsapp_QR.jpg)
+<a class=" " href="https://whatsapp.com/" property="sameAs">WhatsApp +503 7541 6494</a><br>![Volcano](/assets/img/social/whatsapp_QR.jpg)
 
 {% include contact-form.html %}
