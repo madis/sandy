@@ -9,8 +9,8 @@ permalink: /bitcoin/
 Discover the Beauty of El Salvador with a Tropical Tour - Now Accepting Bitcoin Payments!
 
 Embark on an unforgettable tropical tour of El Salvador and experience the beauty of this stunning country like never before. From lush jungles to pristine beaches, El Salvador has it all. And now, for the first time, you can book your tour and pay with Bitcoin!
-
-If your trip is for <p>This is a marker: <mark>business</mark></p>, we can help you find a hotel, we can provide you transportation, and if you need a translator, we can help you.
+---
+If your trip is for<p>This is a marker:<mark>business</mark></p>, we can help you find a hotel, we can provide you transportation, and if you need a translator, we can help you.
 
 We have different tours that will give you the best experience in El Salvador, the country of bitcoin.
 We are at your complete disposal!!!
