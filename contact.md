@@ -19,4 +19,6 @@ permalink: /contact/
 <span class="icon-whatsapp" title="whatsapp"></span>
 <a class=" " href="https://whatsapp.com/" property="sameAs">WhatsApp +503 7541 6494</a><br>![Volcano](/assets/img/social/whatsapp_QR.jpg)
 
+<a href="tel:(503)75416494" class="external no-print-link tel p-tel">(503) 75416494</a>
+
 {% include contact-form.html %}
