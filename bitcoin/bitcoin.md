@@ -17,7 +17,7 @@ If your trip is for Business, we can help you find a hotel, we can provide you t
 We have different tours that will give you the best experience in El Salvador, the country of bitcoin.
 We are at your complete disposal!!!
 
-Business travel<br>Latino night tours.<br>Bitcoin meeting.<br>For more tours get in contact with us.
+<ul><li>Business travel</li><li>Latino night tours</li><li>Bitcoin meeting</li><li>For more tours get in contact with us.</li></ul>
 
 ![Volcano](/assets/img/bitcoin/bitcoin-coin.jpg)
 
