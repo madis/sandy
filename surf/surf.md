@@ -7,7 +7,7 @@ permalink: /surf/
 ---
 <strong>We offer you:</strong>
 
-Qualified instructors with over 15 years of experience.<br>ISA (International Surfing Association) Technique certified.<br>Certified in the MAP Technique (Biomechanical Surfing Technique).<br>Qualified to teach levels 1, 2 and 3.
+<ul><li>Qualified instructors with over 15 years of experience.</li><li>ISA (International Surfing Association) Technique certified.</li><li>Certified in the MAP Technique (Biomechanical Surfing Technique)</li><li>Qualified to teach levels 1, 2 and 3.</li></ul>
 
 <strong>Every lesson includes:</strong>
 
