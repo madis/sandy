@@ -16,7 +16,7 @@ permalink: /surf/
 Our main goal is your safety, so you can get started in this wonderful sport.
 Give your heart a break, surf and enjoy the moment.
 
-Contact us here to schedule your lessons.
+Contact us<a href="https://sandy.sv/contact/">here</a> to schedule your lessons.
 
 <video src="/assets/mp4/surf/surf-sunset.mp4" autoplay />
 
