@@ -11,7 +11,7 @@ permalink: /surf/
 
 <strong>Every lesson includes:</strong>
 
-Longboard<br>Board wax<br>Rash Guard<br>Sunscreen<br>60 minute lesson.
+<ul><li>Longboard</li><li>Board wax</li><li>Rash Guard</li><li>Sunscreen</li><li>60 minute lesson.</li></ul>
 
 Our main goal is your safety, so you can get started in this wonderful sport.
 Give your heart a break, surf and enjoy the moment.
