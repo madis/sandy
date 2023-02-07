@@ -2,14 +2,13 @@
 layout: page
 title: Tours
 description:
-
 hide_description: false
 sitemap: false
 permalink: /tours/
-
 ---
-Come and explore the beauty and culture of El Salvador!
-Immerse yourself in its stunning landscapes, rich history, and delicious cuisine. Contact me to get a tour guide and make the most of your trip. I'll be happy to assist you in creating the ultimate travel experience in this amazing country.
+If you enjoy adventure, culture, and exploring new destinations, and want to experience unforgettable moments in El Salvador, book your tour with Sandy Waves Tours, customize your itinerary and live the best experience in the hands of experts!!
+
+Book your adventure now <a href="https://sandy.sv/contact/">here</a>!
 
 ![Volcano](/assets/img/tours/lake-tour.jpg)
 
