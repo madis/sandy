@@ -20,6 +20,4 @@ Give your heart a break, surf and enjoy the moment.
 
 Contact us <a href="https://sandy.sv/contact/">here</a> to schedule your lessons.
 
-<a href="https://www.instagram.com/p/CnIj69vBDCy/" rel="noopener noreferrer nofollow" target="_blank" aria-label="Visit this image on Instagram" role="link" class="css-4rbku5 css-18t94o4 css-1dbjc4n r-1loqt21"></a>
-
 {% include contact-form.html %}
