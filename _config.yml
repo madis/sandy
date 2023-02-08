@@ -60,10 +60,11 @@ menu:
     url:               /tours/
   - title:             About
     url:               /about/
-  - title:             Contact us
-    url:               /contact/
   - title:             Services
     url:               /services/
+  - title:             Contact us
+    url:               /contact/
+  
   #   - title:          More
   #    url:            /more/
 
