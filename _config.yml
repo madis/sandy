@@ -62,8 +62,8 @@ menu:
     url:               /about/
   - title:             Contact us
     url:               /contact/
-  #  - title:          Services
-  #    url:            /services/
+    - title:          Services
+     url:            /services/
   #   - title:          More
   #    url:            /more/
 
