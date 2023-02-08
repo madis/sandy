@@ -20,6 +20,4 @@ Give your heart a break, surf and enjoy the moment.
 
 Contact us <a href="https://sandy.sv/contact/">here</a> to schedule your lessons.
 
-<video src="/assets/mp4/surf/surf-sunset.mp4" autoplay />
-
 {% include contact-form.html %}
