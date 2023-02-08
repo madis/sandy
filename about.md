@@ -1,8 +1,7 @@
 ---
 title: About me
-description: >
-  Aquí puedes encontrar información about me
-hide_description: true
+description:
+hide_description: false
 permalink: /about/
 ---
 I am Sandy, we are a Tour Operator, located in El Tunco, La Libertad.
