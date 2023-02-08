@@ -12,4 +12,6 @@ Book your adventure now <a href="https://sandy.sv/contact/">here</a>!
 
 ![Volcano](/assets/img/tours/lake-tour.jpg)
 
+<ul><li>Beach Destinations.</li><li>Mountain destinations</li><li>City destinations</li><li>Bitcoin destinations.</li></ul>
+
 {% include contact-form.html %}
