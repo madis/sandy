@@ -4,7 +4,7 @@ description:
 hide_description: false
 permalink: /about/
 ---
-![Volcano](/assets/img/about/about-me.png)
+![Volcano](/assets/img/about/about-pic.png)
 
 I am Sandy, we are a Tour Operator, located in El Tunco, La Libertad.
 
