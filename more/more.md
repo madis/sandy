@@ -14,6 +14,8 @@ permalink: /more/
   </div>
 </blockquote>
 
+<img src="https://www.instagram.com/p/CnznhpCsQx8/" alt="Follow us on Instagram">
+
 Contact us <a href="https://sandy.sv/contact/">here</a> to schedule your lessons.
 
 {% include contact-form.html %}
