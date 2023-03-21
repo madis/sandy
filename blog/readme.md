@@ -5,7 +5,7 @@ description:
 
 hide_description: false
 sitemap: false
-permalink: /bitcoin/
+permalink: /blog/
 ---
 ![Volcano](/assets/img/bitcoin/post-bitcoin.png)
 
