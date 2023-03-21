@@ -1,17 +1,10 @@
 ---
-layout: page
-title: Santa Ana Volcano
-description:
-
-hide_description: false
-sitemap: false
-permalink: /blog/
+layout: blog
+title: Blog
+description: >
+  Sandy megablog
+last_modified_at: 2023-03-21
+no_link_title: false
+no_excerpt: false
+hide_image: false
 ---
-![Volcano](/assets/img/bitcoin/post-bitcoin.png)
-
-Santa Ana Volcano
-
-<ul><li>Business travel</li><li>Latino night tours</li><li>Bitcoin meetings</li><li>For more information get in contact with us <a href="https://sandy.sv/contact/">here</a>.</li></ul>
-
-
-{% include contact-form.html %}
