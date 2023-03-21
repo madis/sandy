@@ -51,6 +51,10 @@ author:
   # twitter:             <username>
 
 # Add links to the sidebar.
+# Jekyll looks for 2 files on a <path>:
+#   1) /<path>.md
+#   2) /<path>/README.md
+#   3) /<path>/<path>.md
 menu:
   - title:             Surf
     url:               /surf/
