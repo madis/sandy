@@ -1,8 +1,10 @@
 ---
-layout: Blog
+layout: page
 title: Santa Ana Volcano
 description: >Explore the stunning Santa Ana Volcano: A Must-Do in El Salvador
-sitemap: true
+
+sitemap: false
+permalink: /Santa-Ana-Volcano/
 ---
 ![Volcano](/assets/img/new/Ilamatepecvolcano.jpg)
 
