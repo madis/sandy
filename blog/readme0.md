@@ -1,9 +1,10 @@
 ---
-layout: post
-related_posts:
-  # Specify via the path in the file system
-  - category/readme0.md/2020-01-01-other-post.md
-  # Can also use the url of the post,
-  # but this will break when changing the `permalink` setting!
-  - /blog/category/2020-01-02-other-other-post/
+layout: blog
+title: Blog
+description: >
+  Sandy megablog
+last_modified_at: 2023-03-21
+no_link_title: false
+no_excerpt: false
+hide_image: false
 ---
