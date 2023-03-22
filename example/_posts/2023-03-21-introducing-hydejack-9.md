@@ -4,15 +4,14 @@ title: topic 1
 image:
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
-  Version 9 is the most complete version of Hydejack yet.
-  Modernized design, big headlines, and big new features.
+  topic 1 description
 sitemap: false
 ---
 
-Version 9 is the most complete version of Hydejack yet.
+Subtitle
 {:.lead}
 
-[Modernized](#linking-in-style) [design](#whats-in-the-cards), [big headlines](#ready-for-the-big-screen), big new features: [Built-In Search](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
+[Modernized](#linking-in-style) [design](#whats-in-the-cards), [big headlines](#ready-for-the-big-screen), big new features: [ejemplo-tres](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
 
 - Table of Contents
 {:toc .large-only}
@@ -34,7 +33,7 @@ The cards have been redesigned with a new hover style and drop shadows and they 
 
 Good images are key to making the most out of content cards. For that reason, a [chapter on images](../../docs/basics.md#adding-images) has been added to the documentation.
 
-## Built-In Search
+## ejemplo-tres
 
 Hydejack now has Built-In Search. It even works offline. I've been prototyping many approaches and eventually settled on a fully client-side, off-the-main thread solution that perfectly fits the use case of personal sites and shows surprisingly good results[^2].
 
