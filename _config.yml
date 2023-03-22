@@ -68,7 +68,7 @@ menu:
     url:               /about/
   - title:             Contact us
     url:               /contact/
-  - title:             Blog
+  - title:             Example
     url:               /example/
 
 # Add links to the footer.
