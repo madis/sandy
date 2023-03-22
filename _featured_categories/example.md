@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Surf
+title: Blog
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: surf
+slug: blogs
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  El departamento de La Libertad es uno de los lugares mas visitados para muchos turistas que nos visitan para poder surfear. 
+  this is sandy blog, and I will tell you everything about my country!
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
