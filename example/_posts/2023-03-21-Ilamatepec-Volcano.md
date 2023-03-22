@@ -1,8 +1,13 @@
 ---
 layout: post
 title: Ilamatepec Volcano
+image:
+  path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
 Explore the stunning Santa Ana Volcano:A Must-Do in El Salvador
+sitemap: false
+---
+
 ---
 Looking for an adventure that combines natural beauty, cultural significance, and breathtaking views? Look no further: Santa Ana Volcano is one of the most awe-inspiring destinations in El Salvador.
 
