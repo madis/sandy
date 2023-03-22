@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hydejack 9
+title: topic 1
 image:
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
