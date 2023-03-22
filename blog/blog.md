@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tours
-description:
+title: blogs
+description: this is sandy blog
 hide_description: false
 sitemap: false
-permalink: /tours/
+permalink: /blog/
 ---
