@@ -11,7 +11,7 @@ sitemap: false
 Subtitle
 {:.lead}
 
-[lugar 1](#ejemplo-de-lugar1) [design](#whats-in-the-cards), [big headlines](#ready-for-the-big-screen), big new features: [ejemplo-tres](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
+[lugar 1](#ejemplo-de-lugar1) [lugar2](#ejemplo-de-lugarx), [big headlines](#ready-for-the-big-screen), big new features: [ejemplo-tres](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
 
 - Table of Contents
 {:toc .large-only}
@@ -26,7 +26,7 @@ The theme on which Hydejack is based was designed for a different era of the web
 
 With version 9, Hydejack takes full advantage of large displays. Whether it's design indulgences such as oversized headlines, or quality of life improvements such as a floating table of contents, Hydejack now finds use for all that extra screen real estate[^1].
 
-## What's in the Cards?
+## ejemplo de lugar x
 
 Hydejack 9 now lets you use content cards for both projects and posts.
 The cards have been redesigned with a new hover style and drop shadows and they retain their unique transition-to-next-page animations, which now also work on the `blog` layout. The new `grid` layout lets you do that.
