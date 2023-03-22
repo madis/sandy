@@ -7,7 +7,7 @@ hide_description: false
 sitemap: false
 permalink: /bitcoin/
 ---
-![Volcano](/assets/img/bitcoin/post-bitcoin.png)
+![](/assets/img/bitcoin/post-bitcoin.png)
 
 Discover the Beauty of El Salvador with a Tropical Tour -<strong>We Accept Bitcoin Payments!!</strong>
 
