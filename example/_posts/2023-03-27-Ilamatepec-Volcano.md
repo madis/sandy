@@ -10,15 +10,7 @@ sitemap: false
 Volcanoes, mountains and hills of El Salvador
 {:.lead}
 
-[Ilamatepec volcano](#Ilamatepec-volcano)
-[San Salvador Volcano](#Volcán-de-San-Salvador)
-[Izalco Volcano](#Volcán-de-Izalco)
-[San Vicente Volcano](#Volcán-de-San-Vicente)
-[Usulután Volcano](#Volcán-de-Usulután)
-[Chinameca Volcano](#Volcán-Chinameca)
-[Chingo Volcano](#Volcán-Chingo)
-[Conchagua Volcano](#Volcán-de-Conchagua)
-[Guazapa Hill](#Cerro-Guazapa)
+[Ilamatepec volcano](#Ilamatepec-volcano), [San Salvador Volcano](#San-Salvador-Volcano), [Izalco Volcano](#Izalco-Volcano), [San Vicente Volcano](#San-Vicente-Volcano), [Usulután Volcano](#Usulután-Volcano), [Chinameca Volcano](#Chinameca-Volcano), [Chingo Volcano](#Chingo-Volcano), [Conchagua Volcano](#Conchagua-Volcano) and [Guazapa Hill](#Guazapa-Hill)
 
 - Table of Contents
 {:toc .large-only}
