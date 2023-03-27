@@ -4,7 +4,7 @@ title: Surf city beaches.
 image:
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
-  topic 1 description
+  Surf city beaches
 sitemap: false
 ---
 
