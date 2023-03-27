@@ -1,6 +1,6 @@
 ---
 layout: post
-title: topic 1
+title: Surf city beaches.
 image:
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
@@ -11,75 +11,42 @@ sitemap: false
 Subtitle
 {:.lead}
 
-[lugar 1](#ejemplo-de-lugar1) [lugarx](#lugarx), [lugar 3](#ready-for-the-big-screen), big new features: [ejemplo-tres](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto](#auto). That [and more](#and-much-more) is Hydejack 9.
+[El Zonte beach](#el-zonte-beach) [El Tunco beach](#el-tunco-beach), [El Sunzal beach](#el-sunzal beach), [Punta Roca beach](#punta-roca-beach), [Las Flores beach](#las-flores-beach).
 
 - Table of Contents
 {:toc .large-only}
 
-## ejemplo de lugar1
+## El Zonte beach
 
-Ever since the introduction of Dark Mode, link styles have been a bit of an issue. Specifically, finding an accent color that worked on both light and dark backgrounds was the problem. With Hydejack 9, the [link style](#linking-in-style) has been revamped so that legibility is no longer tied to the choice of accent_color, giving you much more freedom in creating a unique design flavor for your site.
+El Zonte is one of the most popular beaches in our country, because you can have waves of different sizes and it doesn't matter if you are a beginner or an experienced surfer, because there are a variety of waves in the different surf spots.
+In this beach you will find a very relaxed atmosphere, since some time ago it was known as "pueblo loco" (crazy town). Here you can have a good rest.
 
-## lugar 3
+## El Tunco beach
 
-The theme on which Hydejack is based was designed for a different era of the web. Hydejack has inherited many of its limitations, but over time I've made adjustments, such as centering the content column for better reading ergonomics.
+El Tunco is a small beach town located on the Pacific coast of El Salvador, known for its beautiful black sand beaches, world-class surf, and vibrant nightlife. The town is located about 45 minutes drive from the capital city of San Salvador.
+One of the main attractions of El Tunco is the surf, as it's one of the best surf spots in Central America, with a variety of breaks suitable for surfers of all levels.
 
-With version 9, Hydejack takes full advantage of large displays. Whether it's design indulgences such as oversized headlines, or quality of life improvements such as a floating table of contents, Hydejack now finds use for all that extra screen real estate[^1].
+The town also has a number of surf shops and schools where you can rent equipment and take lessons.
+Apart from the surf, El Tunco also offers a variety of other activities such as yoga and fitness classes, beach volleyball, and even zipline. The town also offers a variety of nightlife options, with a number of bars, clubs and restaurants.
 
-## ejemplo de lugar x
+## El Sunzal beach
 
-Hydejack 9 now lets you use content cards for both projects and posts.
-The cards have been redesigned with a new hover style and drop shadows and they retain their unique transition-to-next-page animations, which now also work on the `blog` layout. The new `grid` layout lets you do that.
+Sunzal is a small beach town located on the Pacific coast of El Salvador, known for its beautiful black sand beach and world-class surf. The town is located about 45 minutes drive from the capital city of San Salvador and it is considered as one of the most popular surf spots in the country.
+Sunzal is home to the famous "Sunzal Point", a world-class wave that attracts surfers from all over the world. The wave is considered as one of the most consistent and longest left-hand point breaks in the world. The wave is suitable for intermediate and advanced surfers.
 
-Good images are key to making the most out of content cards. For that reason, a [chapter on images](../../docs/basics.md#adding-images) has been added to the documentation.
+The town also has a number of surf shops and schools where you can rent equipment and take lessons. The town is also home to a number of hotels, hostels and vacation rentals, so it's a great option for travelers looking for a beach getaway, especially for surfers.
 
-## ejemplo-tres
+## Punta Roca beach
 
-Hydejack now has Built-In Search. It even works offline. I've been prototyping many approaches and eventually settled on a fully client-side, off-the-main thread solution that perfectly fits the use case of personal sites and shows surprisingly good results[^2].
+Punta Roca is a world-renowned surf spot located on the Pacific coast of El Salvador, near the town of La Libertad. It is considered one of the most challenging and powerful waves in the world, and attracts experienced surfers from all over the globe.
+The wave is a long, powerful right-hand point break that breaks over a rocky reef. The wave is known for its fast and hollow barrels, making it a favorite among expert surfers.
 
-The new search UI is custom made for Hydejack and shows beautiful previews of your posts and pages, right on top of your regular content.
+Punta Roca apart from the surf, Punta Roca also offers a variety of other activities such as fishing. Visitors can also explore the nearby town of La Libertad and learn about El Salvador's culture, history, and art.
 
-Together with the Auto-Hiding Navbar, your entire content library is now only a couple of keystrokes away.
+## Las Flores beach
 
-## Auto
+Las Flores, Punta Mango is one of the best surfing spots in El Salvador, and for good reason: this beach offers consistent waves all year round, with some of the best surfing conditions occurring between April and October.
 
-A navbar that's there when you need it, and disappears when you don't. Simple as that.
+Las Flores is known for its long, peeling waves that can reach 10 feet in height, making it a popular spot for experienced surfers. Punta Mango, on the other hand, has a shorter and more powerful wave, making it ideal for intermediate and advanced surfers.
 
-## Sticky Table of Contents
-
-Already a staple on so many sites on the web, this pattern is now also available in Hydejack.
-What's unique about it is that it simply picks up the table of contents already created by kramdown's `{:toc}` tag and transparently upgrades it to a fully dynamic version.
-
-## …and much more
-
-Other noteworthy changes include:
-- Support for Jekyll 4
-- Choice between MathJax and KaTeX for math rendering
-- Use of `jekyll-include-cache` for drastically improved page building speeds
-- New variables configuration file — adjust content width, sidebar width, font size, etc...
-- ...and the option to disable grouping projects by year.
-
-Read the the [CHANGELOG](../../CHANGELOG.md){:.heading.flip-title} for the full scope of features and improvements made in Hydejack 9.
-Maybe just glance at it to confirm that it is indeed a pretty long list.
-
-## Even More to Come
-
-New features for 9.1 are already lined up. Code block headers and code line highlights for even better technical blogging, as well as download buttons on the resume page for PDF, vCard, and Resume JSON are just around the corner.
-
-## Get It Now
-The Free Version of Hydejack is now availabe on [RubyGems](https://rubygems.org/gems/jekyll-theme-hydejack)
-and for the first time also on [GitHub Packages](https://github.com/hydecorp/hydejack/packages).
-The source code is available on [GitHub](https://github.com/hydecorp/hydejack) as always.
-
-The PRO Version is scheduled to release on July 7th on Gumroad. Pre-Orders are open now:
-
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
-
-
-
-[^1]: If you are a fan of the old two-column layout, or don't like modern design tropes such as mega headlines, Hydejack lets you revert these changes on a case-by-case basis via configuration options.
-
-[^2]:
-      Search was mainly tested for English and German. Please let me know about issues in other languages.
-      While I've tried to find a multi-language solution, most showed drastically worse  results for the English base case.
-      If you're technically inclined, you can adopt the code located in `_includes/js/search-worker.js` to your needs.
+In addition to great surfing conditions, this beach offers a relaxed atmosphere with plenty of accommodations and restaurants nearby. And with year-round warm water temperatures and beautiful scenery, it's no wonder Las Flores is a must-see for surfers in El Salvador.
