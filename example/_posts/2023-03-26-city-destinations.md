@@ -1,10 +1,10 @@
 ---
 layout: post
-title: topic 1
+title: City destinations.
 image:
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
-  topic 1 description
+  City destinations
 sitemap: false
 ---
 
