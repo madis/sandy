@@ -10,7 +10,7 @@ sitemap: false
 volcanoes, mountains and hills of El Salvador
 {:.lead}
 
-<ul><li>[Ilamatepec volcano](#Ilamatepec-volcano)</li><li>[Volcán de San Salvador](#Volcán-de-San-Salvador)</li><li>[Volcán de Izalco](#Volcán-de-Izalco)</li><li>[Volcán de San Vicente](#Volcán-de-San-Vicente)</li><li>[Volcán de Usulután](#Volcán-de-Usulután)</li><li>[Volcán Chinameca](#Volcán-Chinameca)</li><li>[Volcán Chingo](#Volcán-Chingo)</li><li>[Volcán de Conchagua](#Volcán-de-Conchagua)</li><li>[Cerro Guazapa](#Cerro-Guazapa)</li></ul>
+<ul><li> [Ilamatepec volcano](#Ilamatepec-volcano) </li><li> [San Salvador Volcano](#Volcán-de-San-Salvador) </li><li> [Volcán de Izalco](#Volcán-de-Izalco) </li><li> [Volcán de San Vicente](#Volcán-de-San-Vicente) </li><li> [Volcán de Usulután](#Volcán-de-Usulután) </li><li> [Volcán Chinameca](#Volcán-Chinameca) </li><li> [Volcán Chingo](#Volcán-Chingo) </li><li> [Volcán de Conchagua](#Volcán-de-Conchagua) </li><li> [Cerro Guazapa](#Cerro-Guazapa) </li></ul>
 
 - Table of Contents
 {:toc .large-only}
@@ -34,20 +34,18 @@ The hike to the top of Santa Ana Volcano is challenging but rewarding, with a va
 Overall, Santa Ana Volcano is a must-see destination for anyone traveling to El Salvador. With its breathtaking views, natural beauty, cultural significance, and opportunities for adventure, it offers a unique and unforgettable experience that you won't want to miss. So pack your hiking boots, grab your camera, and get ready to explore this incredible destination.
 
 
-## Volcán de San Salvador
+## San Salvador Volcano
 
-The theme on which Hydejack is based was designed for a different era of the web. Hydejack has inherited many of its limitations, but over time I've made adjustments, such as centering the content column for better reading ergonomics.
+xxxxx
 
-With version 9, Hydejack takes full advantage of large displays. Whether it's design indulgences such as oversized headlines, or quality of life improvements such as a floating table of contents, Hydejack now finds use for all that extra screen real estate[^1].
-
-## Volcán de Izalco
+## Izalco Volcano
 
 Hydejack 9 now lets you use content cards for both projects and posts.
 The cards have been redesigned with a new hover style and drop shadows and they retain their unique transition-to-next-page animations, which now also work on the `blog` layout. The new `grid` layout lets you do that.
 
 Good images are key to making the most out of content cards. For that reason, a [chapter on images](../../docs/basics.md#adding-images) has been added to the documentation.
 
-## Volcán de San Vicente
+## San Vicente Volcano
 
 Hydejack now has Built-In Search. It even works offline. I've been prototyping many approaches and eventually settled on a fully client-side, off-the-main thread solution that perfectly fits the use case of personal sites and shows surprisingly good results[^2].
 
@@ -55,16 +53,16 @@ The new search UI is custom made for Hydejack and shows beautiful previews of yo
 
 Together with the Auto-Hiding Navbar, your entire content library is now only a couple of keystrokes away.
 
-## Volcán de Usulután
+## Usulután Volcano
 
 A navbar that's there when you need it, and disappears when you don't. Simple as that.
 
-## Volcán Chinameca
+## Chinameca Volcano
 
 Already a staple on so many sites on the web, this pattern is now also available in Hydejack.
 What's unique about it is that it simply picks up the table of contents already created by kramdown's `{:toc}` tag and transparently upgrades it to a fully dynamic version.
 
-## Volcán Chingo
+## Chingo Volcano
 
 Other noteworthy changes include:
 - Support for Jekyll 4
@@ -73,7 +71,7 @@ Other noteworthy changes include:
 - New variables configuration file — adjust content width, sidebar width, font size, etc...
 - ...and the option to disable grouping projects by year.
 
-## Volcán de Conchagua
+## Conchagua Volcano
 
 Other noteworthy changes include:
 - Support for Jekyll 4
@@ -82,7 +80,7 @@ Other noteworthy changes include:
 - New variables configuration file — adjust content width, sidebar width, font size, etc...
 - ...and the option to disable grouping projects by year.
 
-## Cerro Guazapa
+## Guazapa Hill
 
 Other noteworthy changes include:
 - Support for Jekyll 4
