@@ -1,16 +1,24 @@
 ---
 layout: post
-title: volcanoes, mountains and hills of El Salvador
+title: Volcanoes, mountains and hills of El Salvador
 image:
   path: /assets/img/newblog/Santaana-volcano.jpg
 description: >
   Explore the stunning Santa Ana Volcano: A Must-Do in El Salvador
 sitemap: false
 ---
-volcanoes, mountains and hills of El Salvador
+Volcanoes, mountains and hills of El Salvador
 {:.lead}
 
-<ul><li> [Ilamatepec volcano](#Ilamatepec-volcano) </li><li> [San Salvador Volcano](#Volcán-de-San-Salvador) </li><li> [Volcán de Izalco](#Volcán-de-Izalco) </li><li> [Volcán de San Vicente](#Volcán-de-San-Vicente) </li><li> [Volcán de Usulután](#Volcán-de-Usulután) </li><li> [Volcán Chinameca](#Volcán-Chinameca) </li><li> [Volcán Chingo](#Volcán-Chingo) </li><li> [Volcán de Conchagua](#Volcán-de-Conchagua) </li><li> [Cerro Guazapa](#Cerro-Guazapa) </li></ul>
+[Ilamatepec volcano](#Ilamatepec-volcano)
+[San Salvador Volcano](#Volcán-de-San-Salvador)
+[Izalco Volcano](#Volcán-de-Izalco)
+[San Vicente Volcano](#Volcán-de-San-Vicente)
+[Usulután Volcano](#Volcán-de-Usulután)
+[Chinameca Volcano](#Volcán-Chinameca)
+[Chingo Volcano](#Volcán-Chingo)
+[Conchagua Volcano](#Volcán-de-Conchagua)
+[Guazapa Hill](#Cerro-Guazapa)
 
 - Table of Contents
 {:toc .large-only}
