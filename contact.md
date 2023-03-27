@@ -7,6 +7,10 @@ permalink: /contact/
 ---
 ![Volcano](/assets/img/contact/volcano-pic.jpg)
 
+Don't hesitate to reach out to me through my social media or email to schedule a customized tour.
+I'm looking forward to helping you discover the beauty and richness of this amazing country.
+ Let's make your travel dreams a reality! 
+
 <span class="icon-instagram" title="instagram"></span>
 <a class=" " href="https://www.instagram.com/sandywaves.sv/" property="sameAs">Sandy Waves</a>
 
