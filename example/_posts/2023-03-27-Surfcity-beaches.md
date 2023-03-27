@@ -10,7 +10,7 @@ sitemap: false
 Subtitle
 {:.lead}
 
-[El Zonte beach](#el-zonte-beach) , [El Tunco beach](#el-tunco-beach) , [El Sunzal beach](#el-sunzal beach) , [Punta Roca beach](#punta-roca-beach) and [Las Flores beach](#las-flores-beach).
+[El Zonte beach](#el-zonte-beach) , [El Tunco beach](#el-tunco-beach) , [El Sunzal beach](#el-sunzal beach) , [Punta Roca beach](#punta-roca-beach) ,[Las Flores beach](#las-flores-beach) and more.
 
 - Table of Contents
 {:toc .large-only}
