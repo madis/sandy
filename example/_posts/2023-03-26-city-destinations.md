@@ -2,8 +2,9 @@
 layout: post
 title: City destinations.
 image:
-  path: /assets/img/blog/jeremy-bishop@0,5x.jpg
+  path: /assets/img/newblog/city.jpg.jpg
 description: >
   City destinations
 sitemap: false
+
 ---
