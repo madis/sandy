@@ -7,7 +7,6 @@ description: >
   Surf city beaches
 sitemap: false
 ---
-
 Subtitle
 {:.lead}
 
