@@ -10,7 +10,7 @@ slug: blogs
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is sandy blog, and I will tell you everything about my country!
+  <strong>This is sandy blog, and I will tell you everything about my country!</strong>
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
