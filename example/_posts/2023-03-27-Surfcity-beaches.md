@@ -50,3 +50,5 @@ Las Flores, Punta Mango is one of the best surfing spots in El Salvador, and for
 Las Flores is known for its long, peeling waves that can reach 10 feet in height, making it a popular spot for experienced surfers. Punta Mango, on the other hand, has a shorter and more powerful wave, making it ideal for intermediate and advanced surfers.
 
 In addition to great surfing conditions, this beach offers a relaxed atmosphere with plenty of accommodations and restaurants nearby. And with year-round warm water temperatures and beautiful scenery, it's no wonder Las Flores is a must-see for surfers in El Salvador.
+
+{% include contact-form.html %}
