@@ -10,7 +10,7 @@ sitemap: false
 Volcanoes, mountains and hills of El Salvador
 {:.lead}
 
-[Ilamatepec volcano](#Ilamatepec-volcano), [San Salvador Volcano](#San-Salvador-Volcano), [Izalco Volcano](#Izalco-Volcano), [San Vicente Volcano](#San-Vicente-Volcano), [Usulután Volcano](#Usulután-Volcano), [Chinameca Volcano](#Chinameca-Volcano), [Chingo Volcano](#Chingo-Volcano), [Conchagua Volcano](#Conchagua-Volcano) and [Guazapa Hill](#Guazapa-Hill)
+[Ilamatepec volcano](#Ilamatepec-volcano), [San Salvador Volcano](#san-salvador-volcano), [Izalco Volcano](#Izalco-Volcano), [San Vicente Volcano](#San-Vicente-Volcano), [Usulután Volcano](#Usulután-Volcano), [Chinameca Volcano](#Chinameca-Volcano), [Chingo Volcano](#Chingo-Volcano), [Conchagua Volcano](#Conchagua-Volcano) and [Guazapa Hill](#Guazapa-Hill)
 
 - Table of Contents
 {:toc .large-only}
@@ -22,9 +22,6 @@ Located in the Santa Ana Volcano Complex, a UNESCO Biosphere Reserve, Santa Ana 
 Breathtaking views
 The summit of Santa Ana Volcano offers visitors a truly breathtaking panoramic view of the surrounding landscape. From the summit you can see nearby Lake Coatepeque and the Pacific Ocean, as well as the neighboring volcanoes of Izalco and Cerro Verde. The views are especially spectacular at sunrise and sunset, making it a perfect destination for photographers and nature lovers.
 
-Natural Beauty
-The volcano is home to lush cloud forests, diverse flora and fauna, and volcanic formations that make this area so special. While hiking to the summit, you can explore the surrounding trails, waterfalls and hot springs, making it an ideal destination for adventure lovers.
-
 Cultural Importance
 Santa Ana Volcano is an important cultural enclave for the local indigenous communities, who consider it a sacred place for ceremonies and rituals. Visitors can learn about the rich history and culture of the area through guided tours and interaction with local guides and community members.
 
@@ -34,51 +31,50 @@ The hike to the top of Santa Ana Volcano is challenging but rewarding, with a va
 Overall, Santa Ana Volcano is a must-see destination for anyone traveling to El Salvador. With its breathtaking views, natural beauty, cultural significance, and opportunities for adventure, it offers a unique and unforgettable experience that you won't want to miss. So pack your hiking boots, grab your camera, and get ready to explore this incredible destination.
 
 
-## San Salvador Volcano
+## san salvador volcano
 
-xxxxx
+Discover the beauty of San Salvador Volcano
+
+San Salvador Volcano, also known as El Boquerón, is a majestic active volcano located a few kilometers from the capital of El Salvador. It is a popular destination for tourists and adventurers, offering breathtaking views and unique perspectives.
+
+One of the most impressive aspects of San Salvador Volcano is its sheer size. At more than 1,800 meters, it is one of the largest in the country. Visitors can hike to the top of the volcano; the climb to the top of San Salvador Volcano is a difficult but rewarding experience. The trail is well marked and takes about 20 minutes to complete, depending on your level of fitness.
+
+As you climb, you will encounter a variety of flora and fauna, including pine trees, wildflowers and birds, and at the top you can explore the volcano's crater. For those who prefer a less strenuous experience, this volcano is perfect.  
+
+Overall, San Salvador Volcano is a must-see destination for anyone traveling to El Salvador. With its natural beauty, rich history, and unique cultural significance, it's an experience you won't want to miss. So pack your bags, put on your hiking boots, and get ready to discover the beauty of San Salvador Volcano.
+
 
 ## Izalco Volcano
 
-Hydejack 9 now lets you use content cards for both projects and posts.
-The cards have been redesigned with a new hover style and drop shadows and they retain their unique transition-to-next-page animations, which now also work on the `blog` layout. The new `grid` layout lets you do that.
+Izalco Volcano is an active stratovolcano in El Salvador, known as the "Lighthouse of the Pacific" for its frequent eruptions visible from the Pacific Ocean.
 
-Good images are key to making the most out of content cards. For that reason, a [chapter on images](../../docs/basics.md#adding-images) has been added to the documentation.
+It is a popular destination for tourists and adventurers because of its unique history and diverse flora and fauna.
+
+One of the main attractions of Izalco Volcano is its unique history. The volcano was formed less than 200 years ago, in 1770, and has been erupting frequently ever since. In fact, it was one of the most active volcanoes in the world during the 20th century, with more than 50 recorded eruptions.
+
+Visitors can climb to the top of the volcano and explore its crater, which offers stunning views of the surrounding landscape and a unique insight into the volcano's geology and activity.
+
+Guided tours are also available, and the volcano is a popular destination for photographers. Overall, Izalco Volcano is a must see for anyone traveling to El Salvador.
 
 ## San Vicente Volcano
 
-Hydejack now has Built-In Search. It even works offline. I've been prototyping many approaches and eventually settled on a fully client-side, off-the-main thread solution that perfectly fits the use case of personal sites and shows surprisingly good results[^2].
-
-The new search UI is custom made for Hydejack and shows beautiful previews of your posts and pages, right on top of your regular content.
-
-Together with the Auto-Hiding Navbar, your entire content library is now only a couple of keystrokes away.
+xxxx
 
 ## Usulután Volcano
 
-A navbar that's there when you need it, and disappears when you don't. Simple as that.
+xxxx
 
 ## Chinameca Volcano
 
-Already a staple on so many sites on the web, this pattern is now also available in Hydejack.
-What's unique about it is that it simply picks up the table of contents already created by kramdown's `{:toc}` tag and transparently upgrades it to a fully dynamic version.
+xxxx
 
 ## Chingo Volcano
 
-Other noteworthy changes include:
-- Support for Jekyll 4
-- Choice between MathJax and KaTeX for math rendering
-- Use of `jekyll-include-cache` for drastically improved page building speeds
-- New variables configuration file — adjust content width, sidebar width, font size, etc...
-- ...and the option to disable grouping projects by year.
+xxxx
 
 ## Conchagua Volcano
 
-Other noteworthy changes include:
-- Support for Jekyll 4
-- Choice between MathJax and KaTeX for math rendering
-- Use of `jekyll-include-cache` for drastically improved page building speeds
-- New variables configuration file — adjust content width, sidebar width, font size, etc...
-- ...and the option to disable grouping projects by year.
+xxxx
 
 ## Guazapa Hill
 
