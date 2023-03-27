@@ -2,7 +2,7 @@
 layout: post
 title: Surf city beaches.
 image:
-  path: /assets/img/blog/jeremy-bishop@0,5x.jpg
+  path: /assets/img/newblog/beaches.jpg
 description: >
   Surf city beaches
 sitemap: false
